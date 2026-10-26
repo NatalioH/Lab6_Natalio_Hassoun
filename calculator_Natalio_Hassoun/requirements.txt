@@ -1,0 +1,2 @@
+pybuilder==0.13.20
+flake8==7.3.0

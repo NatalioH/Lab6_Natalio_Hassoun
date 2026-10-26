@@ -1,0 +1,29 @@
+PyBuilder version 0.13.20
+Build started at 2026-10-26 22:41:31
+------------------------------------------------------------
+[INFO]  Building calculator_Natalio_Hassoun version 0.1.0
+[INFO]  Executing build in c:\users\user\documents\codex\2026-10-26\prep\outputs\lab6_natalio_hassoun\calculator_natalio_hassoun
+[INFO]  Going to execute task run_unit_tests
+[INFO]  Processing plugin packages 'build>=1.3.0' to be installed with {}
+[INFO]  Processing plugin packages 'flake8>=4.0' to be installed with {'upgrade': True}
+[INFO]  Processing plugin packages 'pypandoc~=1.4' to be installed with {'upgrade': True}
+[INFO]  Processing plugin packages 'setuptools>=76.0' to be installed with {}
+[INFO]  Processing plugin packages 'twine>=1.15.0' to be installed with {'upgrade': True}
+[INFO]  Processing plugin packages 'unittest-xml-reporting>=3.0.4' to be installed with {'upgrade': True}
+[INFO]  Creating target 'build' VEnv in 'c:\users\user\documents\codex\2026-10-26\prep\outputs\lab6_natalio_hassoun\calculator_natalio_hassoun\target\venv\build\cpython-3.10.5.final.0'
+[INFO]  Creating target 'test' VEnv in 'c:\users\user\documents\codex\2026-10-26\prep\outputs\lab6_natalio_hassoun\calculator_natalio_hassoun\target\venv\test\cpython-3.10.5.final.0'
+[INFO]  Running unit tests
+[INFO]  Executing unit tests from Python modules in c:\users\user\documents\codex\2026-10-26\prep\outputs\lab6_natalio_hassoun\calculator_natalio_hassoun\tests\unittest\calculator_natalio_hassoun
+[INFO]  Executed 33 unit tests
+[INFO]  All unit tests passed.
+------------------------------------------------------------
+BUILD SUCCESSFUL
+------------------------------------------------------------
+Build Summary
+             Project: calculator_Natalio_Hassoun
+             Version: 0.1.0
+      Base directory: c:\users\user\documents\codex\2026-10-26\prep\outputs\lab6_natalio_hassoun\calculator_natalio_hassoun
+        Environments:
+               Tasks: prepare [11889 ms] compile_sources [0 ms] run_unit_tests [636 ms]
+Build finished at 2026-10-26 22:41:46
+Build took 15 seconds (15373 ms)
