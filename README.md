@@ -123,10 +123,12 @@ shell deletion commands.
 
 ## Submission evidence
 
-The `evidence/` directory contains captured build output. To capture the terminal
-screenshot requested by the handout, run `pyb run_unit_tests` inside
-`calculator_Natalio_Hassoun` and include the project base directory, `BUILD
-SUCCESSFUL`, build-finished timestamp, and elapsed time in the screenshot.
+The [terminal screenshot](evidence/pybuilder-build-screenshot.png) shows the
+successful `pyb run_unit_tests` command, all 33 tests passing, the calculator's
+base directory, `BUILD SUCCESSFUL`, the build-finished timestamp, and the elapsed
+time of 21 seconds. The `evidence/` directory also contains the text build logs.
+
+![Successful PyBuilder terminal build](evidence/pybuilder-build-screenshot.png)
 
 ## References
 
